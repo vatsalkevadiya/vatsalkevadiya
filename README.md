@@ -1,4 +1,4 @@
-[![MasterHead](https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76114818042d516723bffed8a6a9e79f0bd976ed8c8e&rid=giphy.gif&ct=g)]
+[![MasterHead](https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76114818042d516723bffed8a6a9e79f0bd976ed8c8e&rid=giphy.gif&ct=g)](https://github.com/vatsalkevadiya)
 <h1 align="center">Hi 👋, I'm Vatsal Kevadiya</h1>
 <h3 align="center">A passionate software engineer, who loves JavaScript.</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
