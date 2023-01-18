@@ -38,8 +38,11 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ### :fire: My Stats :
-[![Vatsal's GitHub stats](https://github-readme-stats.vercel.app/api?username=vatsalkevadiya&show_icons=true&theme=vision-friendly-dark)
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vatsalkevadiya&theme=dark&background=000000)](https://git.io/streak-stats)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vatsalkevadiya&theme=vision-friendly-dark&show_icons=true&hide_border=false&&count_private=true&include_all_commits=true" />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vatsalkevadiya&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vatsalkevadiya&theme=dark&background=000000)](https://git.io/streak-stats)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vatsalkevadiya&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
  -->
