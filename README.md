@@ -1,5 +1,7 @@
+
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <a href="https://app.daily.dev/vatsalk"><img src="https://api.daily.dev/devcards/f26be62948824432b94cbc7c0d2002d4.png?r=axv" width="400" alt="Vatsal K's Dev Card"/></a>
+
   <div id="badges">
     <a href="https://www.linkedin.com/in/vatsalkevadiya/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
